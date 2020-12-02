@@ -1,0 +1,26 @@
+{
+  "name": "svelte-preprocess-blockdown",
+  "version": "0.0.0",
+  "description": "Like Object.assign but recursive and for files.",
+  "main": "index.js",
+  "author": {
+    "name": "Tobias Davis",
+    "email": "tobias@davistobias.com",
+    "url": "https://davistobias.com"
+  },
+  "keywords": [
+    "svelte",
+    "preprocess",
+    "blockdown",
+    "markdown"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saibotsivad/svelte-preprocess-blockdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saibotsivad/svelte-preprocess-blockdown/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/svelte-preprocess-blockdown#readme",
+  "license": "VOL"
+}

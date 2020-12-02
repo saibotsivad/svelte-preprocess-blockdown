@@ -1,7 +1,7 @@
 {
   "name": "svelte-preprocess-blockdown",
   "version": "0.0.0",
-  "description": "Like Object.assign but recursive and for files.",
+  "description": "Preprocessor for the Svelte compiler for Blockdown files.",
   "main": "index.js",
   "author": {
     "name": "Tobias Davis",
@@ -22,5 +22,8 @@
     "url": "https://github.com/saibotsivad/svelte-preprocess-blockdown/issues"
   },
   "homepage": "https://github.com/saibotsivad/svelte-preprocess-blockdown#readme",
-  "license": "VOL"
+  "license": "VOL",
+  "dependencies": {
+    "@saibotsivad/blockdown": "^1.2.1"
+  }
 }

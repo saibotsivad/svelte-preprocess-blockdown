@@ -14,12 +14,25 @@ Change categories are:
 * `Fixed` for any bug fixes.
 * `Security` to invite users to upgrade in case of vulnerabilities.
 
+## [0.0.2] - 2020-12-01
+
+### Fixed
+
+- Removed some errant console logs. 🤦‍♂️
+
+## [0.0.1] - 2020-12-01
+
+### Added
+
+- It works pretty well for the one application I'm using it.
+
 ## [0.0.0] - 2020-12-01
 
 ### Added
 
 - Project initialization.
 
-[Unreleased]: https://github.com/saibotsivad/svelte-preprocess-blockdown/compare/v0.0.0...HEAD
+[Unreleased]: https://github.com/saibotsivad/svelte-preprocess-blockdown/compare/v0.0.2...HEAD
+[0.0.2]: https://github.com/saibotsivad/svelte-preprocess-blockdown/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/saibotsivad/svelte-preprocess-blockdown/compare/v0.0.0...v0.0.1
 [0.0.0]: https://github.com/saibotsivad/svelte-preprocess-blockdown/tree/v0.0.0

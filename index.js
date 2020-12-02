@@ -37,9 +37,5 @@ module.exports = ({ parsers }) => ({ content, filename }) => {
 		})
 		.join('\n\n')
 
-console.log('------------------')
-console.log(component)
-console.log('------------------')
-
 	return { code: component }
 }
